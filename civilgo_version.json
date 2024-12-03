@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1",
-  "url": "https://lucky-img.101jc.com:8496/img/civilgo_v0.0.2.zip",
-  "release_notes": "修复了一些已知问题，提升了性能。",
+  "version": "0.0.2",
+  "url": "https://lucky-img.101jc.com:8496/img/civilgo v0.0.2.zip",
+  "release_notes": "\n1.修复了一些已知问题，提升了性能。\n2.新增工具：快速切换本机IP",
   "min_version": "0.0.1",
   "disabled_versions": []
 }
