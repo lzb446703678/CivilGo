@@ -1,7 +1,7 @@
 {
   "version": "0.0.3",
   "url": "https://lucky-img.101jc.com:8496/img/civilgo v0.0.3.zip",
-  "release_notes": "\n1.新增工具：位移应变分布曲线图。\n2.修复了快速切换本机IP工具因编码错误无法正常获取适配器及IP的问题。\n3.优化了快速切换本机IP工具中的恢复默认IP功能。",
+  "release_notes": "\n1.新增工具：位移应变分布曲线图。\n2.修复了快速切换本机IP工具因编码错误无法正常获取适配器及IP的问题。\n3.修复了快速切换本机IP工具导致的黑窗问题。\n4.优化了快速切换本机IP工具中的恢复默认IP功能。",
   "min_version": "0.0.1",
   "disabled_versions": []
 }
