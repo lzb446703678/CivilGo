@@ -1,7 +1,7 @@
 {
-  "version": "0.0.3",
-  "url": "https://lucky-img.101jc.com:8496/img/civilgo v0.0.3.zip",
-  "release_notes": "\n1.新增工具：位移应变分布曲线图。\n2.修复了快速切换本机IP工具因编码错误无法正常获取适配器及IP的问题。\n3.修复了快速切换本机IP工具导致的黑窗问题。\n4.优化了快速切换本机IP工具中的恢复默认IP功能。",
+  "version": "0.0.4",
+  "url": "https://lucky-img.101jc.com:8496/img/civilgo v0.0.4.zip",
+  "release_notes": "\n1.新增工具：图片压缩器。\n默认：图片尺寸7.33cm×5.50cm时，DPI为220。\n适用于检测报告。\n2.修复了平立剖面示意图生成工具的生成按钮颜色异常的问题。\n3.移除了平立剖面示意图生成工具的在线模式。",
   "min_version": "0.0.1",
   "disabled_versions": []
 }
