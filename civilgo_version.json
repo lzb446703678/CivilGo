@@ -2,6 +2,6 @@
   "version": "0.1.1",
   "url": "https://lucky-img.101jc.com:8496/img/civilgo v0.1.1.zip",
   "release_notes": "\n1.使用内置Method的方式替换了定检报告生成工具中的所有VBA程序\n降低了CivilGo对客户端环境的依赖，现在只需要安装了WPS即可生成报告。\n2.修复了平截面假定验证工具无法正常生成图形的问题。\n3.优化了图片压缩器，默认模式下提供了压缩后图片尺寸的选项，不再局限于7.33cm*5.50cm。\n4.优化了软件启动速度。\n5.v0.0.5及之前版本已不再受支持。",
-  "min_version": "0.1.1",
+  "min_version": "0.0.1",
   "disabled_versions": []
 }
