@@ -1,7 +1,7 @@
 {
-  "version": "0.0.7",
-  "url": "https://img.101jc.com/img/civilgo v0.0.7.zip",
-  "release_notes": "\n1.新增了【文档审阅】工具。\n2.软件首页新增了快捷规范查新、搜索工具。\n3.优化了工具箱中荷载试验相关工具的样式。",
+  "version": "0.0.8",
+  "url": "https://img.101jc.com/img/civilgo v0.0.8.zip",
+  "release_notes": "\n1.修复了【荷载效率关系曲线】及【平截面假定验证工具】中的决定系数计算不准的BUG。\n2.取消了启动时必须联网检查更新的要求。",
   "min_version": "0.0.1",
   "disabled_versions": []
 }
